@@ -1,1 +1,4 @@
 # OpenArms_project3
+
+Link to Risha's Project 3 explanation (number 1 + 2): 
+https://northeastern-my.sharepoint.com/:v:/g/personal/bansal_rish_northeastern_edu/IQBhWTD8Kj8hQqDju7rbuQs2AYh-YF_8KGhc6mHj_FZ9s3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vfb5n0
