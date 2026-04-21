@@ -1,0 +1,20 @@
+{
+  "name": "openarms-redis",
+  "version": "1.0.0",
+  "description": "OpenArms Redis - Recently Viewed Clients",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./bin/www.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.4.3",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "http-errors": "^2.0.1",
+    "redis": "^5.12.1"
+  }
+}
