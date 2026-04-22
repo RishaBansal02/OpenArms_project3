@@ -69,8 +69,8 @@ openarms-redis/
   - `DEL` - Clear the entire list
 
 ## Video Walkthrough
-Risha's Explanation (Parts 1 + 2): https://northeastern-my.sharepoint.com/:v:/g/personal/bansal_rish_northeastern_edu/IQBhWTD8Kj8hQqDju7rbuQs2AYh-YF_8KGhc6mHj_FZ9s3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vfb5n0
-Mitya's Explanation (Parts 3 + 4): https://northeastern-my.sharepoint.com/:v:/g/personal/nigam_m_northeastern_edu/IQBsOSprI9PpTKLtlIy_zGSiAXPOAZ6MLvLP2wmynb4ZHA4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wbzFLg
+- Risha's Explanation (Parts 1 + 2): https://northeastern-my.sharepoint.com/:v:/g/personal/bansal_rish_northeastern_edu/IQBhWTD8Kj8hQqDju7rbuQs2AYh-YF_8KGhc6mHj_FZ9s3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Vfb5n0
+- Mitya's Explanation (Parts 3 + 4): https://northeastern-my.sharepoint.com/:v:/g/personal/nigam_m_northeastern_edu/IQBsOSprI9PpTKLtlIy_zGSiAXPOAZ6MLvLP2wmynb4ZHA4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wbzFLg
 
 ## AI Disclosure
 Used Claude (claude.ai) to assist with:
